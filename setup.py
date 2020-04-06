@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pnp',
-    version='0.0.1',
+    version='0.0.2',
     description='My private package from private github repo',
     url='https://github.com/lavih/tokens.git',
     author='lavih',
