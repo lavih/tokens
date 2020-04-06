@@ -5,3 +5,8 @@ def wordpress():
 def pokemon():
   name="pokedex"
   return name
+
+
+def pokemon2():
+  name="pokedex2"
+  return name
